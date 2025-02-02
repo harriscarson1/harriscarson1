@@ -1,4 +1,4 @@
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/harriscarson">Harris</a></h1>
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/harriscarson">Harris</a>👋🏼</h1>
 
 <h2> Information Technology Projects:</h2>
 
