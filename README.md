@@ -1,4 +1,4 @@
-<h1>Hi, I'm Harris, an <a href="www.linkedin.com/in/harris-carson-b32149206">IT Professional</a>☺</h1>
+<h1>Hi, <a href="www.linkedin.com/in/harris-carson-b32149206">I'm Harris
 
 <h2> Information Technology Projects:</h2>
 
