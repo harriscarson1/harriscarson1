@@ -13,7 +13,7 @@
 - <b>VPNs</b>
   - [Network Security Testing and VPN Setup Using Azure VMs](https://github.com/harriscarson1/VPNs)
 - <b>Networking</b>
-   - [Setting Up and Configuring Cisco Router and Switch](https://github.com/harriscarson1/Setting-Up-and-Configuring-Cisco-Router-and-Switch/blob/main/main)
+   - [Setting Up and Configuring Cisco Router and Switch](https://github.com/harriscarson1/Setting-Up-and-Configuring-Cisco-Router-and-Switch/tree/main)
 
  
 <h2>Connect with me:</h2>
