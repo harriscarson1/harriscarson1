@@ -12,6 +12,10 @@
   - [osTicket Ticket Lifecycle Examples](https://github.com/harriscarson1/OsTicket-Ticket-Lifecycle)
 - <b>VPNs</b>
   - [Network Security Testing and VPN Setup Using Azure VMs](https://github.com/harriscarson1/VPNs)
+- <b>Networking</b>
+   - [Setting Up and Configuring Cisco Router and Switch](https://github.com/harriscarson1/OsTicket-Setup)
+
+ 
 <h2>Connect with me:</h2>
 
 
