@@ -11,8 +11,8 @@
   - [osTicket Configuration](https://github.com/harriscarson1/OsTicket-Configuration)
   - [osTicket Ticket Lifecycle Examples](https://github.com/harriscarson1/OsTicket-Ticket-Lifecycle)
 - <b>VPNs</b>
+ - [Implementing a VPN On My Home Network for Remote Access](https://github.com/harriscarson1/Setting-up-Tailscale-VPN-on-Home-Lab)
   - [Network Security Testing and VPN Setup Using Azure VMs](https://github.com/harriscarson1/VPNs)
-  - [Implementing a VPN On My Home Network for Remote Access](https://github.com/harriscarson1/Setting-up-Tailscale-VPN-on-Home-Lab)
 - <b>Networking</b>
    - [Setting Up and Configuring Cisco Router and Switch](https://github.com/harriscarson1/Setting-Up-and-Configuring-Cisco-Router-and-Switch/tree/main)
 
