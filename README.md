@@ -6,7 +6,7 @@
   - [Configuring On-premises Active Directory on a DNS server within Azure VMs](https://github.com/harriscarson1/Setting-Up-Active-Directory)
   <!----- [Configuring and Testing File Share Permissions in Active Directory](https://github.com/harriscarson1/File-Permissions)----!>
   <!---- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/harriscarson1/NSGs-and-Network-Protocols)----!>
-- <b>Hypervisors<b>
+- <b>Hypervisors</b>
   - [Creating a Router(OPNsense) in a VM in Proxmox](https://github.com/harriscarson1/Installing-and-Configuring-OPNsense-Virtual-Machine-on-a-Hypervisor)
   - [Creating a DNS server in and LXC container in Proxmox](https://github.com/harriscarson1/Creating-a-PiHole-DNS-Instance-in-an-LXC-container-on-Proxmox)
 - <b>osTicket (Help Desk Ticketing System)</b>
